@@ -1,9 +1,9 @@
 # 6 Ejercicios Básicos de JS
 
-## [Ejercicio 1](http://https://chwilliams1.github.io/ejerciciosJS/ejercicio1/ejercicio1.html "Ejercicio 1")
+## [Ejercicio 1](https://chwilliams1.github.io/ejerciciosJS/ejercicio1/ejercicio1.html "Ejercicio 1")
 #### 1. Pide la edad y si es mayor de 18 años indica que ya puede conducir.
 
-## [Ejercicio 2](http://https://chwilliams1.github.io/ejerciciosJS/ejercicio2/ejercicio2.html "Ejercicio 2")
+## [Ejercicio 2](https://chwilliams1.github.io/ejerciciosJS/ejercicio2/ejercicio2.html "Ejercicio 2")
 #### 2. Pide una nota (número). Muestra la calificación según la nota:
 
 * 0-3: Muy deficiente
@@ -13,14 +13,14 @@
 * 7-9: Notable
 * 9-10: Sobresaliente
 
-## [Ejercicio 3](http://https://chwilliams1.github.io/ejerciciosJS/ejercicio3/ejercicio3.html "Ejercicio 3")
+## [Ejercicio 3](https://chwilliams1.github.io/ejerciciosJS/ejercicio3/ejercicio3.html "Ejercicio 3")
 #### 3. Realiza un script que pida cadenas de texto  hasta que se pulse “cancelar”. Al salir con “cancelar” deben mostrarse todas las cadenas concatenadas con un guión -
 
 ## [Ejercicio 4](https://chwilliams1.github.io/ejerciciosJS/ejercicio4/ejercicio4.html "Ejercicio 4")
 #### 4. Realiza un script que pida números hasta que se pulse “cancelar”. Si no es un número deberá indicarse con un «alert» y seguir pidiendo. Al salir con “cancelar” deberá indicarse la suma total de los números introducidos.
 
-##[Ejercicio 5](http://https://chwilliams1.github.io/ejerciciosJS/ejercicio5/ejercicio5.html "Ejercicio 5")
-####Realizar una página con un script que calcule el valor de la letra de un número de DNI (Documento nacional de indentidad).
+## [Ejercicio 5](https://chwilliams1.github.io/ejerciciosJS/ejercicio5/ejercicio5.html "Ejercicio 5")
+#### Realizar una página con un script que calcule el valor de la letra de un número de DNI (Documento nacional de indentidad).
 
 #### El algoritmo para calcular la letra del dni es el siguiente :
 
@@ -30,8 +30,8 @@
 * Si lo introducido no es un número deberá indicarse con un alert y volver a preguntar.
 * Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
 
-##[[Ejercicio 6 (Similar al 5, pero en Chile)]](http://https://chwilliams1.github.io/ejerciciosJS/ejercicio6/ejercicio6.html "[Ejercicio 6 (Similar al 5, pero en Chile)]")
-####Realizar una página con un script que calcule el valor del digito verificador de un Rut.
+## [[Ejercicio 6 (Similar al 5, pero en Chile)]](https://chwilliams1.github.io/ejerciciosJS/ejercicio6/ejercicio6.html "[Ejercicio 6]")
+#### Realizar una página con un script que calcule el valor del digito verificador de un Rut.
 
 Pasos para calcular el Digito Verificador:
 1) Se toman todos los números del RUT (sin el digito verificador).
