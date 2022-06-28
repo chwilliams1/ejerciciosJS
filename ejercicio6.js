@@ -10,6 +10,15 @@ function calcular(){
         let arrayMult = multiplicacion(rutInv,mult);
         let sumaLista = sumaArray(arrayMult);
         let digVerificador = 11 - (sumaLista - (11*(parseInt(sumaLista/11))));
+        if (digVerificador == 11){
+            digVerificador = 0;
+        }
+        else if(digVerificador ==10){
+            digVerificador = "K";
+        }
+        else{
+            digVerificador = digVerificador;
+        }
         fin.innerText = "Excelente tu rut con verificador es: "+rut+ "-"+digVerificador;
        
     }
